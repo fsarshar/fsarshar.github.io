@@ -1,0 +1,5 @@
+---
+layout: page
+title: About
+---
+As a PhD student at Virginia Tech, my area of expertise lies in machine learning, data science, and HCI. I hold a master's degree in artificial intelligence and robotics from Sharif University of Technology, and a bachelor's degree in engineering physics from the University of Tehran. My research focuses on empathy in human-robot interaction, where I investigate how machines can better understand and respond to human emotions. In my work, I utilize my proficiency in programming languages such as Python, Java, C/C++, and Matlab. Overall, I am passionate about exploring the intersection of technology and human behavior, and using my skills to create more intuitive and empathetic systems.
