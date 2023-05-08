@@ -1,6 +1,6 @@
 ---
 title:  "ACADEMIC PROJECTS"
-layout: post
+layout: page
 categories: media
 ---
 
