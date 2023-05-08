@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/blog.md",title: "About"}
   - {file: "/projects.md", title: "Projects"}
   - {file: "/experiences.md", title: "Experiences"}
-  - {file: "/Fatemeh_Sarshartehrani_CV.pdf", title: "CV"}
+  - {file: "Fatemeh_Sarshartehrani_CV.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:fatemehst@vt.edu"}
