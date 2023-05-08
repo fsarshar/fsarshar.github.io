@@ -1,10 +1,10 @@
 ---
-title:  "Projects"
+title:  "ACADEMIC PROJECTS"
 layout: post
 categories: media
 ---
 
-# ACADEMIC PROJECTS
+
 ![academic projects](AcademicProject.webp)
 
 ## Backward HSP with Delta-3 function | Python Fall 2020
